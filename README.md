@@ -34,7 +34,6 @@ pip install twickster --upgrade
 
 
 ```python
->>>
 from twickster import API
 
 if __name__ == '__main__':
